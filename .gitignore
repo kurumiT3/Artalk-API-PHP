@@ -1,0 +1,11 @@
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.history
+
+/vendor
+/Config.php
+.DS_Store
